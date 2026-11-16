@@ -1,0 +1,384 @@
+{
+  "status": "2027 draft",
+  "date": "2027-02-17",
+  "entries": [
+    {
+      "session": "morning",
+      "time": "7:50\u20138:15 AM",
+      "teacher": "Brownstein Lum",
+      "homeRoom": "1",
+      "grade": "Kindergarten",
+      "activity": "Morning meeting / attendance",
+      "location": "Yard / Classrooms"
+    },
+    {
+      "session": "morning",
+      "time": "7:50\u20138:15 AM",
+      "teacher": "Rogers",
+      "homeRoom": "2",
+      "grade": "Kindergarten",
+      "activity": "Morning meeting / attendance",
+      "location": "Yard / Classrooms"
+    },
+    {
+      "session": "morning",
+      "time": "7:50\u20138:15 AM",
+      "teacher": "Chan",
+      "homeRoom": "3",
+      "grade": "1st Grade",
+      "activity": "Morning meeting / attendance",
+      "location": "Yard / Classrooms"
+    },
+    {
+      "session": "morning",
+      "time": "7:50\u20138:15 AM",
+      "teacher": "Werner",
+      "homeRoom": "6",
+      "grade": "1st Grade",
+      "activity": "Morning meeting / attendance",
+      "location": "Yard / Classrooms"
+    },
+    {
+      "session": "morning",
+      "time": "7:50\u20138:15 AM",
+      "teacher": "Murai",
+      "homeRoom": "4",
+      "grade": "2nd Grade",
+      "activity": "Morning meeting / attendance",
+      "location": "Yard / Classrooms"
+    },
+    {
+      "session": "morning",
+      "time": "7:50\u20138:15 AM",
+      "teacher": "Wong",
+      "homeRoom": "5",
+      "grade": "2nd Grade",
+      "activity": "Morning meeting / attendance",
+      "location": "Yard / Classrooms"
+    },
+    {
+      "session": "morning",
+      "time": "7:50\u20138:15 AM",
+      "teacher": "Ramirez",
+      "homeRoom": "9",
+      "grade": "K\u20132nd Grade",
+      "activity": "Morning meeting / attendance",
+      "location": "Yard / Classrooms"
+    },
+    {
+      "session": "1",
+      "time": "8:15\u20139:15 AM",
+      "teacher": "Brownstein Lum",
+      "homeRoom": "1",
+      "grade": "Kindergarten",
+      "activity": "Math Festival",
+      "location": "MPR"
+    },
+    {
+      "session": "1",
+      "time": "8:15\u20139:15 AM",
+      "teacher": "Rogers",
+      "homeRoom": "2",
+      "grade": "Kindergarten",
+      "activity": "Math Festival",
+      "location": "MPR"
+    },
+    {
+      "session": "1",
+      "time": "8:15\u20139:15 AM",
+      "teacher": "Chan",
+      "homeRoom": "3",
+      "grade": "1st Grade",
+      "activity": "Math Festival",
+      "location": "MPR"
+    },
+    {
+      "session": "1",
+      "time": "8:15\u20139:15 AM",
+      "teacher": "Werner",
+      "homeRoom": "6",
+      "grade": "1st Grade",
+      "activity": "Math Festival",
+      "location": "MPR"
+    },
+    {
+      "session": "1",
+      "time": "8:15\u20139:15 AM",
+      "teacher": "Murai",
+      "homeRoom": "4",
+      "grade": "2nd Grade",
+      "activity": "Math Festival",
+      "location": "MPR"
+    },
+    {
+      "session": "1",
+      "time": "8:15\u20139:15 AM",
+      "teacher": "Wong",
+      "homeRoom": "5",
+      "grade": "2nd Grade",
+      "activity": "Math Festival",
+      "location": "MPR"
+    },
+    {
+      "session": "1",
+      "time": "8:15\u20139:15 AM",
+      "teacher": "Ramirez",
+      "homeRoom": "9",
+      "grade": "K\u20132nd Grade",
+      "activity": "In-situ Math Activity",
+      "location": "Room 9"
+    },
+    {
+      "session": "snack",
+      "time": "9:15\u20139:35 AM",
+      "teacher": "Brownstein Lum",
+      "homeRoom": "1",
+      "grade": "Kindergarten",
+      "activity": "Snack / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "snack",
+      "time": "9:15\u20139:35 AM",
+      "teacher": "Rogers",
+      "homeRoom": "2",
+      "grade": "Kindergarten",
+      "activity": "Snack / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "snack",
+      "time": "9:15\u20139:35 AM",
+      "teacher": "Chan",
+      "homeRoom": "3",
+      "grade": "1st Grade",
+      "activity": "Snack / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "snack",
+      "time": "9:15\u20139:35 AM",
+      "teacher": "Werner",
+      "homeRoom": "6",
+      "grade": "1st Grade",
+      "activity": "Snack / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "snack",
+      "time": "9:15\u20139:35 AM",
+      "teacher": "Murai",
+      "homeRoom": "4",
+      "grade": "2nd Grade",
+      "activity": "Snack / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "snack",
+      "time": "9:15\u20139:35 AM",
+      "teacher": "Wong",
+      "homeRoom": "5",
+      "grade": "2nd Grade",
+      "activity": "Snack / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "snack",
+      "time": "9:15\u20139:35 AM",
+      "teacher": "Ramirez",
+      "homeRoom": "9",
+      "grade": "K\u20132nd Grade",
+      "activity": "Snack / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "2",
+      "time": "9:35\u201310:35 AM",
+      "teacher": "Brownstein Lum",
+      "homeRoom": "1",
+      "grade": "Kindergarten",
+      "activity": "Activity to be confirmed",
+      "location": "Room 2"
+    },
+    {
+      "session": "2",
+      "time": "9:35\u201310:35 AM",
+      "teacher": "Rogers",
+      "homeRoom": "2",
+      "grade": "Kindergarten",
+      "activity": "Activity to be confirmed",
+      "location": "Room 1"
+    },
+    {
+      "session": "2",
+      "time": "9:35\u201310:35 AM",
+      "teacher": "Chan",
+      "homeRoom": "3",
+      "grade": "1st Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 6"
+    },
+    {
+      "session": "2",
+      "time": "9:35\u201310:35 AM",
+      "teacher": "Werner",
+      "homeRoom": "6",
+      "grade": "1st Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 3"
+    },
+    {
+      "session": "2",
+      "time": "9:35\u201310:35 AM",
+      "teacher": "Murai",
+      "homeRoom": "4",
+      "grade": "2nd Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 5"
+    },
+    {
+      "session": "2",
+      "time": "9:35\u201310:35 AM",
+      "teacher": "Wong",
+      "homeRoom": "5",
+      "grade": "2nd Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 7"
+    },
+    {
+      "session": "2",
+      "time": "9:35\u201310:35 AM",
+      "teacher": "Ramirez",
+      "homeRoom": "9",
+      "grade": "K\u20132nd Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 9"
+    },
+    {
+      "session": "lunch",
+      "time": "10:35\u201311:20 AM",
+      "teacher": "Brownstein Lum",
+      "homeRoom": "1",
+      "grade": "Kindergarten",
+      "activity": "Lunch / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "lunch",
+      "time": "10:35\u201311:20 AM",
+      "teacher": "Rogers",
+      "homeRoom": "2",
+      "grade": "Kindergarten",
+      "activity": "Lunch / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "lunch",
+      "time": "10:35\u201311:20 AM",
+      "teacher": "Chan",
+      "homeRoom": "3",
+      "grade": "1st Grade",
+      "activity": "Lunch / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "lunch",
+      "time": "10:35\u201311:20 AM",
+      "teacher": "Werner",
+      "homeRoom": "6",
+      "grade": "1st Grade",
+      "activity": "Lunch / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "lunch",
+      "time": "10:35\u201311:20 AM",
+      "teacher": "Murai",
+      "homeRoom": "4",
+      "grade": "2nd Grade",
+      "activity": "Lunch / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "lunch",
+      "time": "10:35\u201311:20 AM",
+      "teacher": "Wong",
+      "homeRoom": "5",
+      "grade": "2nd Grade",
+      "activity": "Lunch / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "lunch",
+      "time": "10:35\u201311:20 AM",
+      "teacher": "Ramirez",
+      "homeRoom": "9",
+      "grade": "K\u20132nd Grade",
+      "activity": "Lunch / recess",
+      "location": "Yard / MPR"
+    },
+    {
+      "session": "3",
+      "time": "11:20 AM\u201312:20 PM",
+      "teacher": "Brownstein Lum",
+      "homeRoom": "1",
+      "grade": "Kindergarten",
+      "activity": "Activity to be confirmed",
+      "location": "Room 1"
+    },
+    {
+      "session": "3",
+      "time": "11:20 AM\u201312:20 PM",
+      "teacher": "Rogers",
+      "homeRoom": "2",
+      "grade": "Kindergarten",
+      "activity": "Activity to be confirmed",
+      "location": "Room 2"
+    },
+    {
+      "session": "3",
+      "time": "11:20 AM\u201312:20 PM",
+      "teacher": "Chan",
+      "homeRoom": "3",
+      "grade": "1st Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 3"
+    },
+    {
+      "session": "3",
+      "time": "11:20 AM\u201312:20 PM",
+      "teacher": "Werner",
+      "homeRoom": "6",
+      "grade": "1st Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 6"
+    },
+    {
+      "session": "3",
+      "time": "11:20 AM\u201312:20 PM",
+      "teacher": "Murai",
+      "homeRoom": "4",
+      "grade": "2nd Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 7"
+    },
+    {
+      "session": "3",
+      "time": "11:20 AM\u201312:20 PM",
+      "teacher": "Wong",
+      "homeRoom": "5",
+      "grade": "2nd Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 5"
+    },
+    {
+      "session": "3",
+      "time": "11:20 AM\u201312:20 PM",
+      "teacher": "Ramirez",
+      "homeRoom": "9",
+      "grade": "K\u20132nd Grade",
+      "activity": "Activity to be confirmed",
+      "location": "Room 9"
+    }
+  ]
+}
